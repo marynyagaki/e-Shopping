@@ -1,0 +1,44 @@
+.product-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .image-container {
+    margin-right: 20px;
+  }
+  
+  .name-container {
+    margin-bottom: 5px;
+  }
+  
+  .detailcontainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .details {
+    margin-bottom: 5px;
+  }
+  
+  .options {
+    margin-left: auto;
+  }
+  
+  .btn {
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .btn-warning {
+    background-color: #ffc107;
+    color: #000;
+  }
+  
